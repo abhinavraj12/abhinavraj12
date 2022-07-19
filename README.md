@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhinav Raj.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Spring Framework / Java / SQL / JDBC / Servlet
+- 🌱 I’m currently learning Java | Spring | Spring Boot | SQL
 - 📫 abhinavrajofficial12@gmail.com , it's my personal email, you can contact me through this email anywhere.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
