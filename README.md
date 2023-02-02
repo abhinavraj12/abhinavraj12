@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavraj12&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavraj12" /> </p>
 
-- 🔭 I’m currently working on [flex_monney-assignment](https://github.com/abhinavraj12/flex_monney-assignment)
+- 🔭 I’m currently working on [library-management-system](https://github.com/abhinavraj12/library-management-system)
 
 - 🌱 I’m currently learning **React,Angular, Java-Script**
 
