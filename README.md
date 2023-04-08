@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ESP-SpringBoot-Thymeleaf](https://github.com/abhinavraj12/ESP-SpringBoot-Thymeleaf)
 
-- 🌱 I’m currently learning **React,Angular, Java-Script**
+- 🌱 I’m currently learning **Spring Boot, Spring Security, JWT**
 
 - 💬 Ask me about **Java, Spring, MySQL.**
 
