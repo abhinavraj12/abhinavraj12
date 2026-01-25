@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **abhinavrajofficial12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cw7Yh6KX9LCaWLozQzzqnT6U7OKuJrIn/view?usp=drivesdk](https://drive.google.com/file/d/1Cw7Yh6KX9LCaWLozQzzqnT6U7OKuJrIn/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinav-raj-3549521a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-raj-3549521a9" height="30" width="40" /></a>
