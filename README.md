@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavraj12&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavraj12" /> </p>
 
-- 🔭 I’m currently working on [ESP-SpringBoot-Thymeleaf](https://github.com/abhinavraj12/ESP-SpringBoot-Thymeleaf)
-
-- 🌱 I’m currently learning **Spring Boot, Spring Security, JWT**
+- 🔭 I’m currently working on [TrueSplit]([https://github.com/abhinavraj12/ESP-SpringBoot-Thymeleaf](https://github.com/abhinavraj12/TrueSplit))
 
 - 💬 Ask me about **Java, Spring, MySQL.**
 
-- 📫 How to reach me **abhinavrajofficial69@gmail.com**
+- 📫 How to reach me **abhinavrajofficial12@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Cw7Yh6KX9LCaWLozQzzqnT6U7OKuJrIn/view?usp=drivesdk](https://drive.google.com/file/d/1Cw7Yh6KX9LCaWLozQzzqnT6U7OKuJrIn/view?usp=drivesdk)
 
